@@ -2,6 +2,8 @@
 
 CryptoPortfolio est une application web qui vous permet de suivre vos investissements en cryptomonnaies. Vous pouvez ajouter, modifier et supprimer des cryptomonnaies de votre portefeuille, ainsi que sauvegarder et restaurer vos données.
 
+![cryptoportfolio](cryptoportfolio.png)
+
 ## Fonctionnalités
 
 - Ajouter des cryptomonnaies avec leur symbole, montant et emplacement (exchange ou wallet).
